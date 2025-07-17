@@ -1,4 +1,4 @@
-module github.com/go-audio/morse
+module github.com/drery/morse
 
 go 1.18
 
